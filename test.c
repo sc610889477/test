@@ -1,6 +1,5 @@
 /***
     ２０１７年１０月１３日
-    744663 Song Chen
 ***/
 #include <stdio.h>
 #include <math.h>
